@@ -4,10 +4,10 @@
 <h2>MEUS SITES DE PEGAR CÓDIGOS HTML</h2>
 <ol>
 
-<li>Pegar códigos html - 
+<li>Pegar códigos html - <br/>
 https://www.w3schools.com/html/default.asp
 </li>
-<li>Fabricadeaplicativos - Crie seu própio apk - 
+<li>Fabricadeaplicativos - Crie seu própio apk - <br/>
 https://studio.fabricadeaplicativos.com.br/
 <br/>
 https://appsgeyser.com/
